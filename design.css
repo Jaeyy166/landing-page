@@ -1,6 +1,21 @@
-.header {
-  display: flex;
+html {
+  font-family: Arial;
+  background-color: peachpuff;
 }
-.images-link {
+
+.header-div {
+  display: flex;
+  font-size: 25px; 
+}
+
+.intro-div {
+  display: flex;
+  flex: 1;
+  background-color: white;
+  margin: 20px;
   
+}
+
+.welcome-div {
+  font-weight: bold; 
 }
