@@ -19,3 +19,14 @@ html {
 .welcome-div {
   font-weight: bold; 
 }
+
+.content-div {
+  display; flex:
+}
+.content-div p {
+  font-weight: bold;
+}
+
+.images-div {
+  justify-content; center;
+}
