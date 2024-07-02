@@ -21,12 +21,14 @@ html {
 }
 
 .content-div {
-  display; flex:
+  display: flex;
+  justify-content: center;
 }
 .content-div p {
   font-weight: bold;
 }
 
 .images-div {
-  justify-content; center;
+  display: flex;
+  justify-content: center;
 }
