@@ -12,23 +12,22 @@ html {
   display: flex;
   flex: 1;
   background-color: white;
-  margin: 20px;
+  margin: 20px; 
+  padding: 20px;
   
 }
 
-.welcome-div {
-  font-weight: bold; 
-}
-
-.content-div {
-  display: flex;
-  justify-content: center;
-}
-.content-div p {
+.welcome-div{
   font-weight: bold;
 }
 
-.images-div {
-  display: flex;
-  justify-content: center;
+.intro-body {
+  
+}
+
+.explore-button {
+  font-weight: bold;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 3px;
 }
