@@ -5,20 +5,28 @@ html {
 
 .header-div {
   display: flex;
-  font-size: 25px; 
+  font-size: 35px; 
 }
+.header-link {
+  text-decoration: none;
+  color: black;
+} 
 
 .intro-div {
   display: flex;
   flex: 1;
+  flex-direction: row;
+  justify-content: center;
   background-color: white;
   margin: 20px; 
   padding: 20px;
-  
+  border-radius: 10px;
+  box-shadow: 10px 10px dimgray;
 }
 
 .welcome-div{
   font-weight: bold;
+  font-size: 20px;
 }
 
 .intro-body {
@@ -30,4 +38,5 @@ html {
   margin: 10px;
   padding: 10px;
   border-radius: 3px;
+  background-color: palevioletred;
 }
